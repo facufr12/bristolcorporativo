@@ -1,0 +1,5 @@
+{
+  "name": "Sistema de Diseño Corporativo",
+  "description": "Un sistema de diseño interactivo para estandarizar colores, tipografías y componentes UI basado en React y Tailwind CSS.",
+  "requestFramePermissions": []
+}
